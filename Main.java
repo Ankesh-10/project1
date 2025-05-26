@@ -58,7 +58,7 @@ class Result extends Student implements Sports {
         System.out.println("Total Score: " + (getMarksValue() + sportsScore));
     }
 }
-
+// pugwa was here
 // Example usage
 @SuppressWarnings("unused")
   class Main {
